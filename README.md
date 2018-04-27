@@ -1,2 +1,1 @@
-# ŽidoRadar
-## Rozšírenie do prehliadača Chrome
+# ŽidoRadar - Rozšírenie do prehliadača Chrome
